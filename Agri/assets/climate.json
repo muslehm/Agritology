@@ -1,0 +1,134 @@
+{
+    "Climates":[
+        {
+        "Jerusalem": [{
+            "January": {
+                "TMIN": "4",
+                "TMAX": "12",
+                "TAVG": "8"
+            },
+            "February": {
+                "TMIN": "5",
+                "TMAX": "13",
+                "TAVG": "9"
+            },
+            "March": {
+                "TMIN": "7",
+                "TMAX": "16",
+                "TAVG": "12"
+            },
+            "April": {
+                "TMIN": "10",
+                "TMAX": "21",
+                "TAVG": "16"
+            },
+            "May": {
+                "TMIN": "13",
+                "TMAX": "25",
+                "TAVG": "19"
+            },
+            "June": {
+                "TMIN": "16",
+                "TMAX": "27",
+                "TAVG": "22"
+            },
+            "July": {
+                "TMIN": "17",
+                "TMAX": "29",
+                "TAVG": "23"
+            },
+            "August": {
+                "TMIN": "17",
+                "TMAX": "29",
+                "TAVG": "23"
+            },
+            "September": {
+                "TMIN": "16",
+                "TMAX": "28",
+                "TAVG": "22"
+            },
+            "October": {
+                "TMIN": "14",
+                "TMAX": "24",
+                "TAVG": "19"
+            },
+            "November": {
+                "TMIN": "10",
+                "TMAX": "19",
+                "TAVG": "15"
+            },
+            "December": {
+                "TMIN": "6",
+                "TMAX": "14",
+                "TAVG": "10"
+            }
+        }
+    ],
+          "BorgGharib": [{
+            "January": {
+                "TMIN": "9",
+                "TMAX": "15",
+                "TAVG": "12"
+            },
+            "February": {
+                "TMIN": "9",
+                "TMAX": "16",
+                "TAVG": "13"
+            },
+            "March": {
+                "TMIN": "10",
+                "TMAX": "17",
+                "TAVG": "14"
+            },
+            "April": {
+                "TMIN": "12",
+                "TMAX": "19",
+                "TAVG": "16"
+            },
+            "May": {
+                "TMIN": "15",
+                "TMAX": "23",
+                "TAVG": "19"
+            },
+            "June": {
+                "TMIN": "18",
+                "TMAX": "28",
+                "TAVG": "23"
+            },
+            "July": {
+                "TMIN": "21",
+                "TMAX": "31",
+                "TAVG": "26"
+            },
+            "August": {
+                "TMIN": "22",
+                "TMAX": "31",
+                "TAVG": "27"
+            },
+            "September": {
+                "TMIN": "20",
+                "TMAX": "28",
+                "TAVG": "24"
+            },
+            "October": {
+                "TMIN": "17",
+                "TMAX": "24",
+                "TAVG": "21"
+            },
+            "November": {
+                "TMIN": "14",
+                "TMAX": "20",
+                "TAVG": "17"
+            },
+            "December": {
+                "TMIN": "11",
+                "TMAX": "17",
+                "TAVG": "14"
+            }
+        }
+      ]
+    }
+        
+      ]         
+
+}
