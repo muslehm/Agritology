@@ -1,0 +1,259 @@
+body {
+  font-family: 'Roboto', sans-serif !important;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 23px;
+  color: #A7A7A7;
+  background: #F5F5F5;
+}
+
+#vegetableName{
+  display: none;
+  text-align: center;
+  font-size: 25px;
+  color: #5F5F5F;
+  margin-top: 50px;
+  margin-bottom: 25px;
+}
+
+#vegetableNameAr, #vegetableNameMt{
+  display:none;
+  text-align:center;
+  font-size:18px;
+}
+
+table, th, td{
+  font-family: 'Roboto', sans-serif !important;
+  border: none !important;
+  font-size: 14px;
+  color: #5F5F5F;
+  margin-top: -30px;
+}
+
+
+.answer{
+  font-weight: 700;
+  color: #5F5F5F;
+  margin-top: 25px;
+  font-size: 22px;
+  margin-bottom:20px;
+}
+
+.answerNumeric{
+  margin-top: 30px;
+  font-size: 40px;
+  font-weight: 700;
+  color: #5F5F5F;
+}
+
+.plateGrowthNote{
+  margin-top: 20px !important;
+  margin-bottom: -10px;
+}
+
+h2{
+  color: #5A5A5A;
+}
+
+h3{
+  color: #5F5F5F;
+  font-size: 16px;
+}
+
+h4 {
+  font-style: italic !important;
+  font-size: 12px !important;
+  margin-top: -6px !important;
+}
+
+#col-left {
+  background: #003E59;
+}
+
+.countryLocation {
+  font-weight: 700;
+}
+
+.noDataSelectedText {
+  display: block;
+  left: 35%;
+  position: absolute;
+  top: 25%;
+  font-size: 25px;
+}
+
+.dashboard {
+  background: #F5F5F5;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: flex-start;
+}
+
+
+.dashboard>div:nth-child(-n+3) {
+  flex: 30%;
+  height: 180px;
+}
+
+.dashboard>div:nth-child(4) {
+  height: 420px;
+  flex: 35%
+}
+
+.dashboard>div:nth-child(5) {
+  height: 420px;
+  flex: 55%;
+}
+
+.dashboard>div:nth-child(6) {
+  flex: 30%;
+  height: 180px;
+}
+
+.dashboard>div:nth-child(7) {
+  flex: 30%;
+  height: 180px;
+}
+
+.dashboard>div:nth-child(8) {
+  flex: 30%;
+  height: 180px;
+}
+
+.dashboard>div:nth-child(9) {
+  flex: 45%;
+  height: 510px;
+}
+
+.dashboard>div:nth-child(10) {
+  flex: 45%;
+  height: 510px;
+}
+
+#plantingPeriodButton, #cropButton {
+  opacity: 0.4;
+}
+
+#cropButton {
+  left: 20px;
+}
+
+.plantTimeInput{
+  display: none;
+}
+
+.Select, .Select-value, .Select-placeholder{
+  color:  #5F5F5F !important;
+}
+
+.userInput {
+
+  margin: 15px;
+  padding: 5px;
+  font-style: unset;
+  color: white;
+
+}
+
+.dashboardComponent {
+  margin: 14px;
+  padding: 14px;
+  text-align: center;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 2px;
+}
+
+.titleLocation {
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 14px;
+  color: #FFFFFF;
+  margin: 80px 0 40px 0;
+  text-align: center;
+}
+
+#my-2thermometer{
+  padding: 20px;
+}
+
+.cropImage {
+  width: 70px;
+  height: 70px;
+}
+
+.cropText {
+  font-size: 12px !important;
+}
+
+.card {
+  width: 100%;
+  height: 100%;
+}
+
+.card-body {
+  text-align: center;
+  width: 100%;
+  height: 100%;
+}
+
+#cropSeasonMt, #cropSeasonAr{
+  padding-top: 2px;
+}
+
+.dash-spreadsheet-container{
+  width: 75% !important;
+}
+
+.card-text {
+  font-size: 13px;
+  margin-top: 10px;
+  color: #595959;
+}
+
+.boxSelection {
+  position: relative;
+  width: 90px;
+  height: 90px;
+  left: 36px;
+  top: 133px;
+  background: #FFFFFF;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 2px;
+}
+
+.user-select-none.svg-container {
+  height:400px !important;
+}
+
+.companions-dropdown > .Select {
+  margin-top:30px;
+}
+
+.dash-cell.column-0 {
+  text-align: left !important;
+  font-weight:300;
+}
+
+.dash-cell.column-1 {
+  font-weight:400;
+}
+
+.growthTimelineMain{
+  margin-bottom:40px;
+}
+
+#cropSeasonMt{
+  margin-top:5px !important;
+}
+
+.descTemperature {
+  margin: 30px 0 20px 0 !important;
+}
+
+.fa-map-marker-alt{
+  padding:10px;
+}
