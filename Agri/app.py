@@ -56,8 +56,8 @@ request_ip_url = 'http://api.ipstack.com/'+your_ip+'?access_key='+access_key
 detailed_ip = json.loads(urllib.request.urlopen(request_ip_url).read())
 
 # Getting the continent from the response
-continent = detailed_ip['continent_code']
-#continent = 'EU'  # setting value for continent so that we don't have to keep calling API
+#continent = detailed_ip['continent_code']
+continent = 'EU'  # setting value for continent so that we don't have to keep calling API
 
 # Getting the climate data from json file [IF we get free access to API, we'll replace it]
 climateFile = 'assets/climate.json'  # the climate json file location
