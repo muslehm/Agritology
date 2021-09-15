@@ -27,7 +27,7 @@ import datetime
 # months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August',
 #           'September', 'October', 'November', 'December']
 # dfClimate = pd.DataFrame(columns=['TMIN', 'TMAX', 'TAVG'])
-# climateKey = 'a28ec2a03c06081399695812e7d4e109'
+# climateKey = ''
 # climateURL = 'https://history.openweathermap.org/data/2.5/aggregated/month'
 # monthCount = 0
 # for i in months:
